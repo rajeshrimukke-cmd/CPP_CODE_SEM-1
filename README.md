@@ -1,6 +1,6 @@
-#C++ Programming Lab-Units I to III
+# C++ Programming Lab-Units I to III
 This repository contains the C++ programs from the C++ Programming Laboratory Manual upto Unit III. 
-##Units
+## Units
 
 ### Unit I - Introduction to Object Oriented Programming
 1.Student Class with Details and Result Calculation
